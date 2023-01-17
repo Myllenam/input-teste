@@ -1,6 +1,6 @@
 import { InputTestPage } from "./pages/InputTestPage/index";
 
-function App() {
+const App:React.FC = ()=> {
   return <InputTestPage />;
 }
 
